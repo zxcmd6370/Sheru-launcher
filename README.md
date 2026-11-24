@@ -2,7 +2,7 @@
 Sheru Launcher
 A desktop game launcher for Windows, built on the open-source Hydra 4.4.1 engine. Sheru Launcher manages your game libraries in one place, downloads and launches games, tracks achievements and playtime, and runs a full-screen Big Picture mode for couch play.
 
-The UI is rebranded as Sheru Launcher. The engine, app ID (gg.hydralauncher.hydra), profile folder (%APPDATA%\hydralauncher) and backend endpoints are unchanged.
+
 
 Version: 4.4.1 · Platform: Windows x64 · License: MIT
 
